@@ -2,3 +2,8 @@ A basic CRUD application for Student manamgement:
 
 
 ![image](https://github.com/user-attachments/assets/cc428cac-5fc3-4d48-8ce9-47626506fe11)
+
+![image](https://github.com/user-attachments/assets/81163a2f-1983-414b-9827-7814188b69ec)
+
+
+
