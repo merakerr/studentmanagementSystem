@@ -1,0 +1,14 @@
+#spring:
+#  datasource:
+#    username: root
+#    password: root1234
+#    url: jdbc:mysql://localhost:3306/student
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#      dialect: org.hibernate.dialect.MySQL5Dialect
+#  rsocket:
+#    server:
+#      port: 8082
